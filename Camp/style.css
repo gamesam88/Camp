@@ -1,0 +1,60 @@
+.main{
+    background: url(https://us.123rf.com/450wm/bill2499/bill24991405/bill2499140500032/28096861-dna-molecule-structure-background-.jpg?ver=6);
+    margin: 50px;
+}
+h1{
+    text-align: center;
+}
+img{
+    display: block;
+    position: relative;
+    width: 300px;
+    border-style: solid;
+    border-radius: 15px;
+    border-width: 5px;
+    max-width: 100%;
+    height: auto;
+}
+header{
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.design{
+    max-width: 1000px;
+    min-width: 500px;
+}
+h2{
+    text-align: center;
+}
+.img-content{
+    margin-left: 50px;
+    text-align: center;
+}
+.name{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+li{
+    font-size: 20px;
+    text-indent: 15px;
+    margin-bottom: 20px;
+}
+p{
+    font-size: 20px;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items:center;
+    margin-top: 60px;
+}
